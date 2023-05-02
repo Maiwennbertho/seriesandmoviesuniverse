@@ -1,0 +1,33 @@
+/* internal librairies */
+
+@import "banner.css";
+@import "buttoms.css";
+@import "cards.css";
+@import "footer.css";
+
+/* external librairies (bootstrap, tailwind) */
+
+/* fonts and colors */
+
+/* general website style */
+
+body {
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 85%;
+    margin: 24px auto;
+}
+
+h3{
+    color: rgb(89, 11, 11);
+}
+
+nav {
+    color: rgb(155, 186, 181);
+}
